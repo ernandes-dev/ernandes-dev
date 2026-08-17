@@ -10,7 +10,7 @@ Meu nome é Ernandes, tenho 18 anos e sou estudante de Ciência da Computação 
  
 #
 
-<img align="right" alt="GIF de apresentação" height="190px" src="https://github.com/user-attachments/assets/eef6f052-76ca-458b-8030-7ffd6df003da">
+<video src="https://github.com/user-attachments/assets/eef6f052-76ca-458b-8030-7ffd6df003da" width="500" autoplay loop muted></video>
 
 <h3 align="left">Connect with me!</h3>
 
