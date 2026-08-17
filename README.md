@@ -10,7 +10,7 @@ Meu nome é Ernandes, tenho 18 anos e sou estudante de Ciência da Computação 
  
 #
 
-<img align="right" alt="Cyberpunk Edgerunners" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="Frieren" height="190px" src="./src/FRIRNE.gif">
 
 <h3 align="left">Connect with me!</h3>
 
