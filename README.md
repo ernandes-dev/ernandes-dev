@@ -10,7 +10,7 @@ Meu nome é Ernandes, tenho 18 anos e sou estudante de Ciência da Computação 
  
 #
 
-<img align="right" width="200" height="150" alt="Frieren" src="https://github.com/user-attachments/assets/c85b6f83-717d-43ce-820d-d252bdc69d87">
+<img align="right" alt="Frieren" height="190px" src="https://github.com/user-attachments/assets/c85b6f83-717d-43ce-820d-d252bdc69d87">
 
 <h3 align="left">Connect with me!</h3>
 
