@@ -4,101 +4,201 @@
   </a>
 </div>
 
-#
+---
 
-Meu nome é Ernandes, tenho 18 anos e sou estudante de Ciência da Computação na FIAP. Sou apaixonado por tecnologia e tenho grande interesse por programação, desenvolvimento de software, banco de dados e análise de dados. Sou uma pessoa curiosa, dedicada e estou sempre buscando aprender novas habilidades e transformar meus conhecimentos em projetos e experiências práticas.
- 
-#
+## 👨‍💻 About Me
 
 <img align="right" alt="Frieren" height="190px" src="https://github.com/user-attachments/assets/c85b6f83-717d-43ce-820d-d252bdc69d87">
 
-<h3 align="left">Connect with me!</h3>
+My name is **Ernandes**, I'm 18 years old and I'm a **Computer Science student at FIAP**.
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:devsernandes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ernandes-jesus/)
+I'm passionate about technology and interested in **software development, programming, databases, data analysis, and artificial intelligence**.
 
+I'm a curious and dedicated person who enjoys learning new technologies, solving problems, and turning knowledge into practical projects. I'm currently focused on strengthening my programming fundamentals and building projects that allow me to apply what I learn in real-world scenarios.
 
+<br clear="right"/>
 
-<h3 align="left">My Stack ~</h3>
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+## 🚀 Areas of Interest
 
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
+* 💻 Software Development
+* 🐍 Python Programming
+* ☕ Object-Oriented Programming
+* 🗄️ Databases & SQL
+* 📊 Data Analysis
+* 🤖 Artificial Intelligence
+* 🌐 Web Development
+* 🔧 Algorithms & Data Structures
+* 🧠 Problem Solving
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## 🛠️ Technologies & Tools
 
+### Programming Languages
 
-<br/>
-<br/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" alt="C" title="C"/>
+</p>
 
-<h3 align="left">GitHub Stats</h3>
+### Web Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"/>
+</p>
+
+### Databases & Data
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="VS Code" title="VS Code"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+I'm currently focused on improving my knowledge in:
+
+* Python
+* TypeScript
+* Java
+* Data Structures & Algorithms
+* SQL & Databases
+* Object-Oriented Programming
+* Software Engineering
+* Data Analysis
+* Artificial Intelligence
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 Autonomous Rovers Management System
+
+A project developed in **C** focused on managing autonomous rovers using data structures and programming logic.
+
+**Concepts practiced:**
+
+* Structs
+* Dynamic memory allocation
+* Linked lists
+* Data manipulation
+* Algorithms
+* File handling
+
+---
+
+### 🐍 Python Exercises & Projects
+
+A collection of exercises and projects developed while studying Python, covering programming fundamentals and problem solving.
+
+**Concepts practiced:**
+
+* Functions
+* Lists
+* Dictionaries
+* Tuples
+* Loops
+* Conditional structures
+* Modules
+* File handling
+* Data processing
+
+---
+
+## 🎓 Education
+
+**FIAP — Faculdade de Informática e Administração Paulista**
+
+🎓 Computer Science
+📚 Currently studying
+
+Main areas of study:
+
+* Programming
+* Software Engineering
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Operating Systems
+* Computer Networks
+* Databases
+* Data Analysis
+* Artificial Intelligence
+
+---
+
+## 🌎 Languages
+
+* 🇧🇷 Portuguese — Native
+* 🇺🇸 English — Intermediate (B1)
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:devsernandes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ernandes-jesus/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    align="left"
+    height="180"
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=ernandes-dev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    alt="GitHub Statistics"
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-mu-plum-21.vercel.app/api/top-langs/?username=ernandes-dev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
+ height="180"
+ src="https://github-readme-stats-mu-plum-21.vercel.app/api/top-langs/?username=ernandes-dev&layout=compact&custom_title=Most%20Used%20Languages&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"
+ alt="Most Used Languages"
+/>
 
 </p>
 
-<picture align="center">
+<br clear="both"/>
+
+---
+
+## 🐍 Contribution Activity
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ernandes-dev/ernandes-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ernandes-dev/ernandes-dev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ernandes-dev/ernandes-dev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ernandes-dev/ernandes-dev/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ernandes-dev/ernandes-dev/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+<div align="center">
+
+### ✦ Thanks for visiting my profile! ✦
+
+**Always learning. Always building.**
+
+</div>
