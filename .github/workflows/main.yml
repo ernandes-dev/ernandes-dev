@@ -1,17 +1,10 @@
 name: Generate animation
 
 on:
-
-# Atualiza automaticamente todos os dias
-
 schedule:
 - cron: "0 0 * * *"
 
-# Permite executar manualmente pelo GitHub
-
 workflow_dispatch:
-
-# Executa quando houver push na branch principal
 
 push:
 branches:
@@ -27,8 +20,6 @@ runs-on: ubuntu-latest
 timeout-minutes: 5
 
 steps:
-
-  # Gera a animação das contribuições
   - name: Generate GitHub contribution snake
     uses: Platane/snk/svg-only@v3
     with:
@@ -37,7 +28,6 @@ steps:
         dist/github-contribution-grid-snake.svg
         dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-  # Envia os arquivos gerados para a branch output
   - name: Push snake to output branch
     uses: crazy-max/ghaction-github-pages@v3.1.0
     with:
@@ -46,4 +36,3 @@ steps:
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-
